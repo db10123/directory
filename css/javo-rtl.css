@@ -1,0 +1,19 @@
+/* Box Map */
+body.rtl .javo_mhome_wrap .javo_mhome_sidebar_wrap .javo-mhome-sidebar-onoff{top:0;}
+body.rtl .javo_mhome_wrap .javo_mhome_map_lists{left:0; right:auto;}
+body.rtl .javo_mhome_wrap .javo_mhome_map_lists .item-list-page-wrap .item .item-list-box-map .caption .col-xs-8 .col-md-12{padding-right:40px; line-height:30px; overflow:visible;}
+body.rtl .javo_mhome_wrap .javo_mhome_map_lists .item-list-page-wrap .item .item-list-box-map .caption .col-xs-4{padding-right:25px;}
+body.rtl .javo_mhome_wrap .javo_mhome_map_lists .item-list-page-wrap .item .item-list-box-map .intro{padding-right:18px;}
+
+body.rtl .javo_mhome_wrap .javo_mhome_map_lists .main-map-search-wrap .javo-filter-column{text-align:right;}
+body.rtl .javo_mhome_wrap .javo_mhome_map_lists .main-map-search-wrap .javo-filter-column>.sel-box .sel-container input{padding-right: 40px;}
+body.rtl .javo_mhome_wrap .javo_mhome_map_lists .main-map-search-wrap .javo-filter-column>.sel-box .sel-content li{text-align:right;}
+body.rtl .javo_mhome_wrap .javo_mhome_map_lists .main-map-search-wrap .javo-filter-column .chosen-container .chosen-results{text-align: right !important;}
+
+body.rtl .javo_mhome_wrap .javo_mhome_map_lists .item-list-page-wrap .item.list-group-item .caption .col-xs-4,
+body.rtl .javo_mhome_wrap .javo_mhome_map_lists .item-list-page-wrap .item.list-group-item .caption .col-xs-4 .social-wrap{float:left !important;}
+/* Box Map - end */
+
+/* Wide Map */
+body.rtl #javo-map-wide-wrapper .javo-wide-map-container .map_area .javo_somw_opener{left:0;}
+/* Wide Map - end */
