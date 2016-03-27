@@ -23,6 +23,7 @@
 @media only screen and (min-width:1199px){
 	.col-md-9.pp-single-content #javo-gall .javo-gallery .javo-gall-mix,
 	.wpb_column:not(.vc_col-sm-12) #javo-gall .javo-gallery .javo-gall-mix{width:30%; float:left;}
+	//.wpb_column:not(.vc_col-sm-12) #javo-gall .javo-gallery .javo-gall-mix{width:30%; float:left;}
 }
 @media only screen and (max-width:1199px){
 	.javo_post_header_fancy{height:auto !important;  background-size: auto 100% !important;}
